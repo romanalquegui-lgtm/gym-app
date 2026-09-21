@@ -18,7 +18,7 @@
 
 const CACHE_NAME = 'gym-tracker-v13';
 const CORE_ASSETS = [
-    './entrenos_claude13.html',
+    './index.html',
     './ejercicios.csv',
     './manifest.json',
     './icon-192.png',
